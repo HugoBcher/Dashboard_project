@@ -1,0 +1,22 @@
+.wid1{
+    background: rgb(139, 139, 139);
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+    text-align: center;
+ 
+   
+}
+
+.wid{
+    width: 350px;
+    text-align: center;
+}
+
+.widG{
+    text-align: center;
+    
+    padding: 0px 130px 20px;
+    
+}
